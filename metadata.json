@@ -1,0 +1,11 @@
+{
+  "name": "PlantScanner AI - વનસ્પતિ અને વાતાવરણ સ્કેનર",
+  "description": "AI-સંચાલિત પ્લાન્ટ સ્કેનર: છોડની સંપૂર્ણ ઓળખ, હવામાન-વાતાવરણ અનુકૂળતા, સારસંભાળ અને રોગ નિદાન.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
